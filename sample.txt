@@ -1,3 +1,8 @@
 git checkout -b branchname -- > creates new branch and switches to new branch auto
 
 git branch branch name --> creates new branc but wont switch to new branc --> git switch to switch to new branch
+
+
+git pull id git fetch and git merge
+
+git fetch only tetches the chanes and did't add the changes tp local repo
