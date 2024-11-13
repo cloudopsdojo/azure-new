@@ -1,0 +1,3 @@
+git checkout -b branchname -- > creates new branch and switches to new branch auto
+
+git branch branch name --> creates new branc but wont switch to new branc --> git switch to switch to new branch
